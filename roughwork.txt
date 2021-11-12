@@ -21,19 +21,21 @@ Chi:
 Pillars
 3-4 fundementals of this game
 Amy:
-Leon:
+Leon: Racing, Tuning, Police Chases, Thrilling story
 Chi:
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
 Amy:
-Leon:
+Leon: You start in your crew spaceship, and the space car that you tuned gets launched to the surface of Jupiter's moon Io, where the race begins. 
+Your race against other hyperground racers on the surface in a novel 3D racing experince with incredible loops, and jumps over acid pits in low gravity, when suddenly the Nicolai Space Corp. security shows up and you have to flee. 
+You push the police cars into acid pits and other environmental hazards to escape and get picked up by your crew spaceship in a secure location.
 Chi:
 ...
 Features points
 key selling points of your game
 Amy:
-Leon:
+Leon: Novel 3D racing experince akin to "Trackmania" but with various gravity settings and with environemntal challanges, Unseen race tracks on planets and moons of the solar system and beyond, a new combi between spacship racing and space car racing.
 Chi:
 ...
 Market analysis
