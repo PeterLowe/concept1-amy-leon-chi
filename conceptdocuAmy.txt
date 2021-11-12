@@ -2,5 +2,17 @@ Amy
 
 Title: Need For Speed: Interstellar
 
+Elevator Pitch:
 The classic game of Need For Speed but in space. Many of the rules will be the same but the cars will
-react differently on the roads due to the lack of gravity. The roads are the rings of the planets. 
+react differently on the roads due to the lack of gravity.  
+
+World Background:
+The roads are the rings of the planets. Players race around the planets with astroids and space debris as obstacles for them. 
+
+Pillars:
+
+
+
+
+Gameplay Description:
+The cars are lighter and players will have to rely on drifting skills to progress through the race. 
