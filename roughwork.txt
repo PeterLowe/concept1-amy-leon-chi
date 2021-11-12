@@ -1,20 +1,43 @@
 Title
 insert team member names here
+Amy:
+Leon: Need for Lightspeed
+Chi:
 
 Elevator pitch 
 Describe your game in 30 seconds or less
+Amy:
+Leon: Take Need for Speed, add rocket boosters instead of nitrus and lightspeed jump booster rings to other planets instead of checkpoints.
+Chi:
 ...
 World Background
 main differences in your game world
+Amy:
+Leon: There's a secret space station on the moon that is the central hub of the hyperground racing society with contacts, crews, hypercars, and tuning.
+You can race with cars, which are launched from orbit from spaceships to planet surfaces or with spaceships around asteroid belts, and lightspeed routes.
+Space Racing on certain planets and through asteroid belts is illegal, since it's property of Nocolai Corp, which bought most of space. Their "pioneering" CEO is the main antagonist, who will do anything for profit.
+Chi:
 ...
 Pillars
 3-4 fundementals of this game
+Amy:
+Leon:
+Chi:
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
+Amy:
+Leon:
+Chi:
 ...
 Features points
 key selling points of your game
+Amy:
+Leon:
+Chi:
 ...
 Market analysis
 similar games , typical customer, expected sales
+Amy:
+Leon:
+Chi:

@@ -1,7 +1,0 @@
-Title: Need for Lightspeed
-
-Elevator Pitch: Take Need for Speed, add rocket boosters instead of nitrus and lightspeed jump booster rings to other planets instead of checkpoints.
-
-World background: There's a secret space station on the moon that is the central hub of the hyperground racing society with contacts, crews, hypercars, and tuning.
-You can race with cars, which are launched from orbit from spaceships to planet surfaces or with spaceships around asteroid belts, and lightspeed routes.
-Space Racing on certain planets and through asteroid belts is illegal, since it's property of Nocolai Corp, which bought most of space. Their "pioneering" CEO is the main antagonist, who will do anything for profit.
